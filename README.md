@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with React this LandingPage.
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/RESUME.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/PizzaRestaurant-LandingPage.git` <br/>
 > **STEP-2:**  enter the `PizzaRestaurant-LandingPage` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  open the folder with `cmd` or `Git Bash` and write `npm start` <br/>
@@ -29,7 +29,7 @@ This project was developed using the following technologies
 ## SAMPLE SCREEN APPEARANCE
 
 ![There was a screenshot here](./screen.1.png)
-![There was a screenshot here](./screen.2.png)
+![There was a screenshot here](./screen.2.PNG)
 
 
  
